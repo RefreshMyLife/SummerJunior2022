@@ -7,7 +7,7 @@
 ## Этап 1
 ### Повторяем основные основы основ JS
 ##### Теория
-[Теория от code.mu](https://www.code.mu/ru/javascript/book/prime/)
+[Теория от code.mu](https://www.code.mu/ru/javascript/book/prime/)<br/>
 [Теория от learnJS](https://learn.javascript.ru)
 [Теория на доку JS](https://doka.guide/js/)
 [серия книг "Ты не знаешь JS"](https://github.com/azat-io/you-dont-know-js-ru)
