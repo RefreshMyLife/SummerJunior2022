@@ -17,7 +17,7 @@
 [Алгоритмы](https://www.youtube.com/c/ViktorKarpovCodes/videos)
 ## Этап 2
 #### Полноценное создание веб-приложений
-[Реакт Пиццы](https://www.youtube.com/watch?v=_UywBskWJ7Q&list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl) 
+[Реакт Пицца 2.0]s://www.youtube.com/watch?v=_UywBskWJ7Q&list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl) 
 [Использовать в качестве прототипа своего приложения](https://www.youtube.com/watch?v=euYBnQ5MbLM&list=PL7cTIfGFrdKkQAWKDu2NdFt5Cx38B-A3i)
 ## Этап 3
 ### Идём на дно
